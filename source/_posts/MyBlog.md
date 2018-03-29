@@ -2,7 +2,7 @@
 title: MarkDown语法
 date: 2018-01-15 11:11:47
 categories: # 分类
-- Android # 一级分类
+- 技术 # 一级分类
 tags: # 标签
 - Android
 comments: true #开启评论
